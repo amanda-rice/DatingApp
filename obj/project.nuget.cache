@@ -1,14 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "SRvVOqnER+OATUvNHqincr/Bmi0sqC2CXBh3XhXeRBCSpk2pMZtYW7UbYCwQ5Q18zT5Jl7Ut/bvAWNU/kl0tBA==",
+  "dgSpecHash": "BMY/D0n90selUVgDNTmKgrQNFvUkCczJab7rUiJcUZpcwfc0UckEOj7zHKRgm81EgYv5Kfcx/GBdQIn1MhSKSQ==",
   "success": true,
   "projectFilePath": "C:\\source\\DatingApp\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\MeowMeow\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\MeowMeow\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\MeowMeow\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.9\\microsoft.data.sqlite.core.5.0.9.nupkg.sha512",
     "C:\\Users\\MeowMeow\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
     "C:\\Users\\MeowMeow\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.9\\microsoft.entityframeworkcore.5.0.9.nupkg.sha512",
     "C:\\Users\\MeowMeow\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.9\\microsoft.entityframeworkcore.abstractions.5.0.9.nupkg.sha512",
     "C:\\Users\\MeowMeow\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.9\\microsoft.entityframeworkcore.analyzers.5.0.9.nupkg.sha512",
+    "C:\\Users\\MeowMeow\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.9\\microsoft.entityframeworkcore.design.5.0.9.nupkg.sha512",
     "C:\\Users\\MeowMeow\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.9\\microsoft.entityframeworkcore.relational.5.0.9.nupkg.sha512",
     "C:\\Users\\MeowMeow\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\5.0.9\\microsoft.entityframeworkcore.sqlite.5.0.9.nupkg.sha512",
     "C:\\Users\\MeowMeow\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\5.0.9\\microsoft.entityframeworkcore.sqlite.core.5.0.9.nupkg.sha512",
